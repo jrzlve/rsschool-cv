@@ -23,6 +23,7 @@ section * {
 }
 .header-wrapper {
     width: 70%;
+    height: 190px;
     padding: 20px 30px;
     display: block;
     float: right;
@@ -41,7 +42,7 @@ section * {
     margin-bottom: 30px;
     font-family: 'Rokkitt', serif;
     text-align: right;
-    font-size: 28px;
+    font-size: 30px;
     color: #252525;
 }
 .portrait {
@@ -67,8 +68,19 @@ section * {
 }
 .navigation li {
     margin: 0;
-    padding: 10px;
     font-size: 20px;
+}
+.navigation li a {
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.navigation li a:hover {
+    padding-left: 30px;
 }
 .screen-split {
     width: 3px;
@@ -90,10 +102,4 @@ section * {
 }
 .contacts-list {
     list-style: none;
-}
-section {
-    display: none;
-}
-section:first-child {
-    display: block;
 }
