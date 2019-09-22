@@ -15,7 +15,7 @@ const content = {
             <li>Libraries: <em>React, CSS frameworks (bootstrap, foundation, skeleton)</em></li>
             <li>Version control: <em>Git</em></li>
             <li>Tools (IDEs): <em>VSCode, WebStorm, Notepad++</em></li>
-            <li>Methodologies: <em>Agile experience (about 2 months - Trello)</em></li>
+            <li>Methodologies: <em>Scrum experience (about 2 months - Trello)</em></li>
         </ul>
     </section>`,
     examples: 
