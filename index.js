@@ -4,18 +4,18 @@ const content = {
     about: 
     `<section class="about-section">
         <h3 class="section-header">About me</h3>
-        <p class="about-text">I'm a junior front-end developer. I've decided to become a front-end dev on my third year in the university. There were some classes about web-dev basics. After few doubles I understood, that it's the thing I really like. My goal is to learn as much as possible to be proud of things I do. It's not about prestige or something like that, front-end is something inspiring, kind of art, where you can create beautiful and useful applications and every time tou will learn a lot of new information. So, my goal is to do my best.</p>
+        <p class="about-text">I'm a junior front-end developer. I've decided to become a front-end dev on my second year in the university. There were some classes about web-dev basics. After few doubles I understood, that it's the thing I really like. My goal is to learn as much as possible to be proud of things I do. It's not about prestige or something like that, front-end is something inspiring, kind of art, where you can create beautiful and useful applications and every time tou will learn a lot of new information. So, my goal is to do my best.</p>
     </section>`,
     skills: 
     `<section class="skills-section">
         <h3 class="section-header">Professional skills</h3>
         <ul class="skills-list">
-            <li>Programming languages: <em>HTML/SCC/Javascript, TypeScript/flow basics</em></li>
-            <li>Frameworks: <em>Angular basics, ReactNative, GQL (ApolloClient)</em></li>
-            <li>Libraries: <em>React, CSS frameworks (bootstrap, foundation, skeleton)</em></li>
-            <li>Version control: <em>Git</em></li>
+            <li>Programming languages: <em>HTML/SCC/Javascript (3.5 years), TypeScript/flow basics</em></li>
+            <li>Frameworks: <em>Angular basics, ReactNative (8 months), GQL-ApolloClient (4 months)</em></li>
+            <li>Libraries: <em>React (1 year), CSS frameworks (bootstrap, foundation, skeleton)</em></li>
+            <li>Version control: <em>GitHub/Lab</em></li>
             <li>Tools (IDEs): <em>VSCode, WebStorm, Notepad++</em></li>
-            <li>Methodologies: <em>Scrum experience (about 2 months - Trello)</em></li>
+            <li>Methodologies: <em>Scrum experience (about 2 months - Trello, 5 months - Jira)</em></li>
         </ul>
     </section>`,
     examples: 
@@ -25,7 +25,6 @@ const content = {
         <ul class="examples-list">
             <lh>The latest examples are:</lh>
             <li>Sweep commits (few screens for SweepTravel app) - ReactNative</li>
-            <li><a href="https://github.com/jrzlve/rn-proj">ReactNative test project</a></li>
         </ul>
     </section>`,
     experience: 
